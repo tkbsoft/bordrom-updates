@@ -1,5 +1,9 @@
 {
-  "show": true,
+  "enabled": true,
+  "id": "duyuru-001",
   "title": "Bilgilendirme",
-  "message": "Yeni APK yayınlandı."
+  "message": "Bu ay bordro verileri güncellendi. Uygulamayı yeni sürüme geçirmen önerilir.",
+  "buttonText": "Detay",
+  "buttonUrl": "https://tkbsoft.github.io/bordrom-updates/",
+  "dismissible": true
 }
