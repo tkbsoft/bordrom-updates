@@ -2,7 +2,7 @@
   "enabled": true,
   "id": "duyuru-001",
   "title": "Bilgilendirme",
-  "message": "Program güncellemesi mevcut. Uygulamayı ayarlardan güncelleyin.",
+  "message": "Program güncellemesi mevcut. Lütfen uygulamayı ayarlardan güncelleyin.",
   "buttonText": "Detay",
   "buttonUrl": "https://tkbsoft.github.io/bordrom-updates/",
   "dismissible": true
