@@ -2,7 +2,7 @@
   "enabled": true,
   "id": "notice_1",
   "title": "Bilgilendirme",
-  "message": "Bu hafta hava açık.",
+  "message": "Yeni güncelleme bulunmamaktadır.",
   "buttonText": "",
   "buttonUrl": "",
   "dismissible": true
