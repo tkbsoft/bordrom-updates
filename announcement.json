@@ -1,9 +1,10 @@
 {
-  "enabled": true,
-  "id": "duyuru-001",
-  "title": "Bilgilendirme",
-  "message": "Program güncellemesi mevcut. Lütfen uygulamayı ayarlardan güncelleyin.",
-  "buttonText": "Detay",
-  "buttonUrl": "https://tkbsoft.github.io/bordrom-updates/",
-  "dismissible": true
+  "versionCode": 2,
+  "versionName": "1.2.2",
+  "apkUrl": "https://github.com/tkbsoft/bordrom-updates/releases/download/v1.2.2/app-release.apk",
+  "forceUpdate": false,
+  "currentTitle": "Bilgilendirme",
+  "currentMessage": "İyi günler. Uygulama güncel durumda.",
+  "updateTitle": "Güncelleme mevcut",
+  "updateMessage": "Yeni sürüm mevcut. Lütfen ayarlar içinden güncelleme yapınız."
 }
