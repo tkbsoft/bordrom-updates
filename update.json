@@ -1,7 +1,18 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2.3",
-  "apkUrl": "https://github.com/tkbsoft/bordrom-updates/releases/download/v1.2.3/app-release.apk",
+  "versionCode": 7,
+  "versionName": "1.2.6",
+  "apkUrl": "https://github.com/tkbsoft/bordrom-updates/releases/download/v1.2.6/app-release.apk",
   "forceUpdate": false,
-  "message": "Yeni güncelleme mevcut. Ayarlardan uygulamayı güncelleyiniz."
+  "message": "Bordrom 1.2.6 hazır.",
+  "changelog": [
+    "Bordro hesaplamaları ve vergi/SGK parametreleri iyileştirildi.",
+    "Takvimde Sosyal İzin ve Ücretsiz İzin / Devamsızlık girişleri sadeleştirildi.",
+    "Saat girilmeyen izinler tam gün olarak işlenebilir hale getirildi.",
+    "Ayarlar ekranı yeniden düzenlendi ve bölümler açılır/kapanır hale getirildi.",
+    "Ana ekrandaki güncelleme bildirimi Ayarlar > Güncelleme bölümüne bağlandı.",
+    "Sürüm notları desteği eklendi.",
+    "Bordro ekranında sağa/sola kaydırarak ay değiştirme eklendi.",
+    "Gereksiz SGK Matrahı debug satırı kaldırıldı.",
+    "Çeşitli hata düzeltmeleri ve iyileştirmeler yapıldı."
+  ]
 }
